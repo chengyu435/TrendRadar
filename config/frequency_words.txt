@@ -48,3 +48,5 @@ ai
 航空
 
 脑机接口
+BCI
+Brain computer interface
